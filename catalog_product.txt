@@ -1,0 +1,9 @@
+product_id,name,price,size,color
+P123,T-Shirt,19.99,Small,Black
+P123,T-Shirt,19.99,Medium,Black
+P123,T-Shirt,24.99,Small,Red
+P123,T-Shirt,24.99,Medium,Red
+P123,T-Shirt,24.99,Large,Red
+P123,T-Shirt,29.99,Small,Blue
+P123,T-Shirt,29.99,Medium,Blue
+P123,T-Shirt,29.99,Large,Blue
