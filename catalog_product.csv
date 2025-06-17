@@ -1,9 +1,3 @@
-product_id,name,price,size,color
-P123,T-Shirt,19.99,Small,Black
-P124,T-Shirt,19.99,Medium,Black
-P125,T-Shirt,24.99,Small,Red
-P126,T-Shirt,24.99,Medium,Red
-P127,T-Shirt,24.99,Large,Red
-P128,T-Shirt,29.99,Small,Blue
-P129,T-Shirt,29.99,Medium,Blue
-P130,T-Shirt,29.99,Large,Blue
+version https://git-lfs.github.com/spec/v1
+oid sha256:3efb16b25b9fccca60fd10aed31240cb7c6c475e1a32e7e18ac42161732fe891
+size 275
