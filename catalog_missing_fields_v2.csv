@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0cbad6cc1f26e7166e8460060a9feb2e83c34eff74dca348e81671c49810d724
-size 231
+product_id,name,price,size,color
+R123,T-Shirt,19.99,Small,Black
+R124,,19.99,Medium,Black
+R125,T-Shirt,,Small,Red
+R126,T-Shirt,24.99,,Red
+R127,T-Shirt,24.99,Large,
+R128,T-Shirt,29.99,Small,Blue
+R129,T-Shirt,,Medium,Blue
+R130,,,,Blue
