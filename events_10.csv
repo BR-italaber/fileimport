@@ -1,11 +1,11 @@
 registered;cookie;browser;country;timestamp;zip
-1;A73952f48-8cb3-41aa-ac2d-3db890235ac1;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_0) AppleWebKit/5321 (KHTML, like Gecko) Chrome/37.0.819.0 Mobile Safari/5321";ABC;1751473380;69572
-2;A63a6b832-baf2-40a3-b7a6-dc12ca046fd1;"Mozilla/5.0 (X11; Linux i686) AppleWebKit/5331 (KHTML, like Gecko) Chrome/39.0.828.0 Mobile Safari/5331";ABC;1751400900;99105
-3;A96851539-9af8-4c44-8ec7-0c704816413e;"Mozilla/5.0 (Windows NT 5.2; en-US; rv:1.9.2.20) Gecko/2020-11-11 Firefox/37.0";ABC;1751459492;34750
-4;A0533527b-d00f-46bb-be8d-24dd5f1e09a0;"Mozilla/5.0 (X11; Linux i686) AppleWebKit/5332 (KHTML, like Gecko) Chrome/38.0.873.0 Mobile Safari/5332";SZ;1751448044;12835
-5;Add23d861-ab91-40a8-899b-f8db56075ed5;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_6) AppleWebKit/5312 (KHTML, like Gecko) Chrome/39.0.827.0 Mobile Safari/5312";CC;1751399458;66627
-6;A5b3b268b-e0a4-4ed0-8ea8-d7b27687b17e;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/5312 (KHTML, like Gecko) Chrome/40.0.812.0 Mobile Safari/5312;KP;1751392736;85259
-7;A2791dfd1-f006-4a96-9a6e-675f1ed97ac1;"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8) AppleWebKit/5332 (KHTML, like Gecko) Chrome/39.0.823.0 Mobile Safari/5332";MK;1751385558;79493
-8;Abc141fb7-3f52-40ba-a534-843a563e2685;"Mozilla/5.0 (Windows 95; en-US; rv:1.9.1.20) Gecko/1921-29-08 Firefox/37.0";MR;1751522176;36708
-9;A8042a23f-1688-49be-adfb-d3eab1de5e15;"Opera/9.36 (Windows NT 6.1; en-US) Presto/2.11.343 Version/13.00";AE;1751436292;20635
-10;A499ec638-06f9-4751-8115-eb20d35ffec9;"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_5) AppleWebKit/5361 (KHTML, like Gecko) Chrome/37.0.870.0 Mobile Safari/5361";IN;1751468813;76024
+1;173952f48-8cb3-41aa-ac2d-3db890235ac1;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_0) AppleWebKit/5321 (KHTML, like Gecko) Chrome/37.0.819.0 Mobile Safari/5321";ABC;1751473380;69572
+2;163a6b832-baf2-40a3-b7a6-dc12ca046fd1;"Mozilla/5.0 (X11; Linux i686) AppleWebKit/5331 (KHTML, like Gecko) Chrome/39.0.828.0 Mobile Safari/5331";ABC;1751400900;99105
+3;196851539-9af8-4c44-8ec7-0c704816413e;"Mozilla/5.0 (Windows NT 5.2; en-US; rv:1.9.2.20) Gecko/2020-11-11 Firefox/37.0";ABC;1751459492;34750
+4;10533527b-d00f-46bb-be8d-24dd5f1e09a0;"Mozilla/5.0 (X11; Linux i686) AppleWebKit/5332 (KHTML, like Gecko) Chrome/38.0.873.0 Mobile Safari/5332";SZ;1751448044;12835
+5;1dd23d861-ab91-40a8-899b-f8db56075ed5;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_6) AppleWebKit/5312 (KHTML, like Gecko) Chrome/39.0.827.0 Mobile Safari/5312";CC;1751399458;66627
+6;15b3b268b-e0a4-4ed0-8ea8-d7b27687b17e;Mozilla/5.0 (Windows NT 5.1) AppleWebKit/5312 (KHTML, like Gecko) Chrome/40.0.812.0 Mobile Safari/5312;KP;1751392736;85259
+7;12791dfd1-f006-4a96-9a6e-675f1ed97ac1;"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8) AppleWebKit/5332 (KHTML, like Gecko) Chrome/39.0.823.0 Mobile Safari/5332";MK;1751385558;79493
+8;1bc141fb7-3f52-40ba-a534-843a563e2685;"Mozilla/5.0 (Windows 95; en-US; rv:1.9.1.20) Gecko/1921-29-08 Firefox/37.0";MR;1751522176;36708
+9;18042a23f-1688-49be-adfb-d3eab1de5e15;"Opera/9.36 (Windows NT 6.1; en-US) Presto/2.11.343 Version/13.00";AE;1751436292;20635
+10;1499ec638-06f9-4751-8115-eb20d35ffec9;"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_5) AppleWebKit/5361 (KHTML, like Gecko) Chrome/37.0.870.0 Mobile Safari/5361";IN;1751468813;76024
